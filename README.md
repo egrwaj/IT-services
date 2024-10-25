@@ -1,2 +1,2 @@
-# IT-services
-ITS
+# IT-service
+Интернет-магазин IT услуг
