@@ -6,54 +6,60 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>IT services</title>
-    *{
-        margin: 0;
-        padding: 0;
-       box-sizing: border-box;
-    }  
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+           box-sizing: border-box;
+        }  
        
-    body{
-       font-family: 'Montserrat', sans-serif;
-       font-weight: 200;
-       color: var(--tg-text-color);
-       background: var(--tg-theme-bg-color);
+        body{
+           font-family: 'Montserrat', sans-serif;
+           font-weight: 200;
+           color: var(--tg-text-color);
+           background: var(--tg-theme-bg-color);
        }
     
-    #main
+        #main
        {
-       width: 100%;
-       padding: 20px;
-       text-aligh: center;
+           width: 100%;
+           padding: 20px;
+           text-aligh: center;
        }
     
-    h1 {
-       margin-top: 50px;
-       margin-bottom: 10px;
+       h1 {
+           margin-top: 50px;
+           margin-bottom: 10px;
+       }
+    
+       img {
+           width: 70px;
+           margin: 0 auto;
+       }
+    
+        p {
+            width: 350px;
+            margin: 0 auto;
         }
-    
-    img {
-       width: 70px;
-       margin: 0 auto;
-       }
-    
-    p {
-        width: 350px;
-        margin: 0 auto;
-       }
 
-    button {
-        border: 0;
-        border-radius: 5px;
-        margin-top: 50px;
-        height: 60px;
-        width: 200px;
-        font-size: 20px;
-        font-weight: 500;
-        cursor: pointer;
-        transition: all 500ms ease;
-        volor: var(--tg-theme-button-text-color);
-        background: var(--tg-theme-button-text-color);
-    }
+        button {
+            border: 0;
+            border-radius: 5px;
+            margin-top: 50px;
+            height: 60px;
+            width: 200px;
+            font-size: 20px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 500ms ease;
+            volor: var(--tg-theme-button-text-color);
+            background: var(--tg-theme-button-text-color);
+        }
+
+        button:hover {
+            background: var(--tg-theme-secondary-bg-color);
+        }
+    </style>   
 </head>
 <body>
     <div id="main">
