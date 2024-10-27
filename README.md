@@ -33,7 +33,7 @@
        }
     
        img {
-           width: 70px;
+           width: 150px;
            margin: 0 auto;
        }
     
