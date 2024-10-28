@@ -33,8 +33,10 @@
        }
     
        img {
-           width: 200px;
+           width: 350px;
            margin-top: 60px;
+           margin-left: 50px;
+           margin-right: 50 px;
            border radius: 20px;
            margin: 0 auto;
        }
