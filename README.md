@@ -66,6 +66,25 @@
         button:hover {
             background: var(--tg-theme-secondary-bg-color);
         }
+
+        #form {
+            display: none;
+            text-aligh: center;
+        }
+
+        input {
+            width: 90%;
+            outline: none;
+            margin: 10x 5%;
+            padding: 15px 10px;
+            font-size: 14px;
+            border: 2px solid silver;
+            border-radius: 5px;
+        }
+
+        input:focus {
+            border-color: #db5d5d;
+        }
     </style>   
 </head>
 <body>
@@ -74,6 +93,15 @@
         <img src="https://img.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_629802-6.jpg?size=338&ext=jpg&ga=GA1.1.1297763733.1728259200&semt=ais_hybrid">
         <button id="buy">Купить</button>
     </div>
+    <form id="form">
+        <input type="text" placeholder="Имя" id="user_name">
+        <input type="text" placeholder="Gmail" id="user_gmail">
+        <input type="text" placeholder="Телефон" id="user_phone">
+        <button id="order">Оформить</button>
+    </form>
     <script>src="https://telegram.org/js/telegram-web-app.js"</script>
+    <scipt>
+
+    </script
 </body>
 </html>
