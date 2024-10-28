@@ -49,11 +49,11 @@
             margin-top: 20px
             height: 40px;
             width: 200px;
-            button-aligh: center;
             font-size: 20px;
             font-weight: 500;
             cursor: pointer;
             text-aligh: center;
+            button-aligh: center;
             transition: all 500ms ease;
             volor: var(--tg-theme-button-text-color);
             background: var(--tg-theme-button-text-color);
