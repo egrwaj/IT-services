@@ -49,7 +49,7 @@
         button {
             border: 0;
             border-radius: 5px;
-            margin-top: 60px
+            margin-top: 30px
             height: 40px;
             width: 100px;
             button-aligh: center;
