@@ -33,7 +33,9 @@
        }
     
        img {
-           width: 250px;
+           width: 200px;
+           margin-top: 60px;
+           border radius: 20px;
            margin: 0 auto;
        }
     
