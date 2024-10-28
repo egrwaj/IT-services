@@ -100,8 +100,5 @@
         <button id="order">Оформить</button>
     </form>
     <script>src="https://telegram.org/js/telegram-web-app.js"</script>
-    <scipt>
-
-    </script
 </body>
 </html>
