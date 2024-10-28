@@ -34,10 +34,7 @@
     
        img {
            width: 400px;
-           margin-top: 60px;
-           margin-left: 50px;
-           margin-right: 50 px;
-           border radius: 20px;
+           img-aligh: center;
            margin: 0 auto;
        }
     
@@ -51,7 +48,7 @@
             border-radius: 5px;
             margin-top: 20px
             height: 40px;
-            width: 100px;
+            width: 200px;
             button-aligh: center;
             font-size: 20px;
             font-weight: 500;
