@@ -34,8 +34,7 @@
     
        img {
            width: 200px;
-           img-aligh: center;
-           margin: 0 auto;
+           img-aligh: center
        }
     
         p {
@@ -48,7 +47,7 @@
             border-radius: 5px;
             margin-top: 20px
             height: 40px;
-            width: 200px;
+            width: 400px;
             font-size: 20px;
             font-weight: 500;
             cursor: pointer;
