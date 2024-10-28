@@ -49,11 +49,10 @@
         button {
             border: 0;
             border-radius: 5px;
-            margin-top: 60px;
-            margin-left: 100px;
-            margin-right: 100px;
+            margin-top: 60px
             height: 40px;
             width: 100px;
+            button-aligh: center;
             font-size: 20px;
             font-weight: 500;
             cursor: pointer;
