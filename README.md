@@ -57,6 +57,7 @@
             font-size: 20px;
             font-weight: 500;
             cursor: pointer;
+            text-aligh: center;
             transition: all 500ms ease;
             volor: var(--tg-theme-button-text-color);
             background: var(--tg-theme-button-text-color);
