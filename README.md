@@ -40,16 +40,15 @@
     
         p {
             width: 350px;
-            margin: 0 auto;
             margin: 30px auto;
         }
 
         button {
             border: 0;
             border-radius: 5px;
-            margin-top: 20px
-            height: 40px;
-            width: 400px;
+            margin-top: 50px;
+            height: 60px;
+            width: 200px;
             font-size: 20px;
             font-weight: 500;
             cursor: pointer;
@@ -96,6 +95,6 @@
         <input type="text" placeholder="Телефон" id="user_phone">
         <button id="order">Оформить</button>
     </form>
-    <script>src="https://telegram.org/js/telegram-web-app.js"</script>
+    <scriptsrc="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
 </html>
