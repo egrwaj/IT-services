@@ -63,7 +63,7 @@
         }
 
         #form {
-            display: none;
+            display: center;
             text-aligh: center;
         }
 
@@ -75,10 +75,6 @@
             font-size: 14px;
             border: 2px solid silver;
             border-radius: 5px;
-        }
-
-        input:focus {
-            border-color: #db5d5d;
         }
     </style>   
 </head>
