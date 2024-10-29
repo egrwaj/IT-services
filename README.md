@@ -34,8 +34,7 @@
     
        img {
            width: 200px;
-           img-aligh: center
-           
+           img-aligh: center;
        }
     
         p {
