@@ -95,6 +95,6 @@
         <input type="text" placeholder="Телефон" id="user_phone">
         <button id="order">Оформить</button>
     </form>
-    <scriptsrc="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
 </html>
