@@ -43,11 +43,14 @@
         }
 
         button {
-            border: 0;
-            border-radius: 5px;
+            border: 30;
+            border-radius: 25px;
             margin-top: 50px;
+            margin-down: 50px;
+            margin-left: 50px;
+            margin-right: 50px;
             height: 60px;
-            width: 60px;
+            width: 200px;
             font-size: 20px;
             font-weight: 70;
             cursor: pointer;
