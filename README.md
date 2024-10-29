@@ -51,8 +51,16 @@
             margin: 30px auto;
         }
 
-        Buy_block {
+        .Buy_block {
+        width: 80 px;
         positional: absolute;
+        top: 10px;
+        bottom: 10px;
+        right: 50px;
+        left: 50px;
+        }
+
+        .Oform_block {
         width: 80 px;
         positional: absolute;
         top: 10px;
