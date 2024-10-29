@@ -6,6 +6,8 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>IT services</title>
+    <div class="wrapper">
+        <div class="Buy_block">Купить</div>
     <style>
         {
             margin: 0;
@@ -47,10 +49,16 @@
 
         button {
         positional: absolute;
-        top: 0;
+        
         }
 
         button:hover {
+        width: 80 px;
+        positional: absolute;
+        top: 10px;
+        bottom: 10px;
+        right: 50px;
+        left: 50px;
             background: var(--tg-theme-secondary-bg-color);
         }
 
