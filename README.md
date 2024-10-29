@@ -9,6 +9,7 @@
     <div class="wrapper">
         <div class="Buy_block">Купить</div>
         <div class="Oform_block">Купить</div>
+    </div>
     <style>
         {
             margin: 0;
