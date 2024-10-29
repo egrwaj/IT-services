@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>IT services</title>
     <style>
-        * {
+        {
             margin: 0;
             padding: 0;
            box-sizing: border-box;
