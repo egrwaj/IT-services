@@ -35,11 +35,13 @@
        img {
            width: 200px;
            img-aligh: center
+           
        }
     
         p {
             width: 350px;
             margin: 0 auto;
+            margin: 30px auto;
         }
 
         button {
