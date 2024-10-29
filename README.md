@@ -33,8 +33,11 @@
        }
     
        img {
-           width: 200px;
-           img-aligh: center;
+       positional: absolute;
+       top: 10px;
+       bottom: 10px;
+       left: 50px;
+       right: 50px;
        }
     
         p {
