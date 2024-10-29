@@ -8,6 +8,7 @@
     <title>IT services</title>
     <div class="wrapper">
         <div class="Buy_block">Купить</div>
+        <div class="Oform_block">Купить</div>
     <style>
         {
             margin: 0;
@@ -49,16 +50,15 @@
 
         button {
         positional: absolute;
-        
-        }
-
-        button:hover {
         width: 80 px;
         positional: absolute;
         top: 10px;
         bottom: 10px;
         right: 50px;
         left: 50px;
+        }
+
+        hover:
             background: var(--tg-theme-secondary-bg-color);
         }
 
