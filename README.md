@@ -43,19 +43,8 @@
         }
 
         button {
-            border: 30;
-            border-radius: 25px;
-            positional: absolute;
-            height: 60px;
-            width: 200px;
-            font-size: 20px;
-            font-weight: 70;
-            cursor: pointer;
-            text-aligh: center;
-            button-aligh: center;
-            transition: all 500ms ease;
-            volor: var(--tg-theme-button-text-color);
-            background: var(--tg-theme-button-text-color);
+        positional: absolute;
+        top: 0;
         }
 
         button:hover {
