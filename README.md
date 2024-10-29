@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<! DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -47,9 +47,9 @@
             border-radius: 5px;
             margin-top: 50px;
             height: 60px;
-            width: 200px;
+            width: 60px;
             font-size: 20px;
-            font-weight: 500;
+            font-weight: 70;
             cursor: pointer;
             text-aligh: center;
             button-aligh: center;
@@ -94,6 +94,5 @@
         <input type="text" placeholder="Телефон" id="user_phone">
         <button id="order">Оформить</button>
     </form>
-    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
 </html>
