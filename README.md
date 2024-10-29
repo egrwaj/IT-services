@@ -6,11 +6,13 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>IT services</title>
+    <style>
+        
     <div class="wrapper">
         <div class="Buy_block">Купить</div>
         <div class="Oform_block">Купить</div>
     </div>
-    <style>
+    
         {
             margin: 0;
             padding: 0;
