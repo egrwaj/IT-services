@@ -87,11 +87,13 @@
         <img src="https://img.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_629802-6.jpg?size=338&ext=jpg&ga=GA1.1.1297763733.1728259200&semt=ais_hybrid">
         <button id="buy">Купить</button>
     </div>
+    if type "button": {
     <form id="form">
         <input type="text" placeholder="Имя" id="user_name">
         <input type="text" placeholder="Gmail" id="user_gmail">
         <input type="text" placeholder="Телефон" id="user_phone">
         <button id="order">Оформить</button>
     </form>
+    }
 </body>
 </html>
