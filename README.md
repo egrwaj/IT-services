@@ -51,7 +51,7 @@
             margin: 30px auto;
         }
 
-        button {
+        Buy_block {
         positional: absolute;
         width: 80 px;
         positional: absolute;
