@@ -9,6 +9,7 @@
 <style>
 .first-button {
  position: absolute;
+ top: 10px;
 }
 
 .second-button {
@@ -16,7 +17,7 @@
 }
 
 .third-button {
- position: absolute;
+    
 }
 </style>
 </html>
