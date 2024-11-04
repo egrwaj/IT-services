@@ -10,7 +10,7 @@
 .first-button {
  position: absolute;
  top: 50px;
- left: 20px;
+ left: 75px;
 }
 
 .second-button {
