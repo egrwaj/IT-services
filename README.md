@@ -9,6 +9,8 @@
 <style>
 .first-button {
  position: absolute;
+ top: 50px;
+ left: 20px;
 }
 
 .second-button {
