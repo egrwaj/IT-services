@@ -9,7 +9,7 @@
 <style>
 .first-button {
  position: absolute;
- position: center;
+ button-position: center;
 }
 
 .second-button {
