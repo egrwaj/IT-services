@@ -7,6 +7,11 @@
     <div class="third-button">big cock</div>
 
 <style>
+
+.wraper {
+position: relative;
+}
+    
 .first-button {
  position: absolute;
  top: 80px;
