@@ -14,7 +14,7 @@ position: relative;
     
 .first-button {
  position: absolute;
- top: 80px;
+ top: 1200px;
 }
 
 .second-button {
