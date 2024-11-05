@@ -28,6 +28,7 @@
     position: relative;
     left:50px;
     top:60px;
+    z-index: 0;
 }
 .block_3{
     blockground: #18b5a4;
