@@ -7,7 +7,7 @@ body{
     font-family: Arial, "Helvetica neue", Helevetica, sans-serif;
 }
     
-    <body>
+    <div>
         <div class="block">
         
         <div class="block_1">
@@ -19,7 +19,7 @@ body{
         <div class="block_3">
             .block_3
         </div>
-
+    </div>
            
 .block-{
     border: 5px-solid-red;
