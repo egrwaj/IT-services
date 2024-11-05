@@ -42,6 +42,8 @@ body{
     position: relative;
     left:50px;
     top:60px;
+    right:70px;
+    bottom:100px;
     z-index: 0;
 }
 .block_3{
