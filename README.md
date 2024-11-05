@@ -19,7 +19,6 @@ body{
         <div class="block_3">
             .block_3
         </div>
-    </div>
            
 .block-{
     border: 5px-solid-red;
