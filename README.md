@@ -1,6 +1,12 @@
 <! DOCTYPE html>
 <html lang="ru">
 <style>
+
+body{
+    padding: 30px;
+    font-family: Arial, "Helvetica neue", Helevetica, sans-serif;
+}
+    
     <body>
         <div class="block">
         
