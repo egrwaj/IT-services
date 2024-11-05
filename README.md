@@ -1,12 +1,20 @@
 <! DOCTYPE html>
 <html lang="ru">
-    <div class="first-block">First cock</div>
-
-    <div class="second-block">Second lock</div>
-
-    <div class="third-block">big cock</div>
-
 <style>
+    <body>
+        <div class="block">
+        
+        <div class="block_1">
+            .block_1
+        </div>
+        <div class="block_2">
+            .block_2
+        </div>
+        <div class="block_3">
+            .block_3
+        </div>
+
+           
 .block-{
     border: 5px-solid-red;
     max-width: 800px;
