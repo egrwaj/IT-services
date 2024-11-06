@@ -43,7 +43,6 @@ body{
     top:60px;
     right:70px;
     bottom:100px;
-    z-index: 0;
 }
 .block_3{
     blockground: #18b5a4;
