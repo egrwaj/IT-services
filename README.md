@@ -39,10 +39,10 @@ body{
     background-color: #5e5373;
     color: #fff;
     position: relative;
-    left:50px;
-    top:60px;
-    right:70px;
-    bottom:100px;
+    left:60px;
+    top:90px;
+    right:60px;
+    bottom:70px;
 }
 .block_3{
     blockground: #18b5a4;
