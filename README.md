@@ -31,10 +31,11 @@
 }
 .block_1{
     background-color: #ece89d;
-    text-aligh: center;
+    position: absolute;
     left:0px;
-    top:20%;
+    top:10%;
     right:0px;
+    text-aligh: center;
 }
 .block_2{
     background-color: #5e5373;
@@ -47,8 +48,9 @@
 }
 .block_3{
     blockground: #18b5a4;
+    position: absolute;
     left:0px;
-    top:60%;
+    top:70%;
     right:0px;
     text-aligh: center;
 }
