@@ -29,7 +29,7 @@
     text-aligh: center;
     position: relative;
 }
-.block_1{
+.cock{
     background-color: #ece89d;
     position: absolute;
     left:0px;
@@ -37,7 +37,7 @@
     right:0px;
     text-aligh: center;
 }
-.block_2{
+.ass{
     background-color: #5e5373;
     color: #fff;
     position: absolute;
@@ -46,7 +46,7 @@
     right:0px;
     text-aligh: center;
 }
-.block_3{
+.deck{
     blockground: #18b5a4;
     position: absolute;
     left:0px;
