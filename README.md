@@ -33,7 +33,7 @@
     background-color: #800000;
     position: absolute;
     left:0px;
-    top:10%;
+    top:40px;
     right:0px;
     text-aligh: center;
 }
@@ -41,7 +41,7 @@
     background-color: #ff00ff;
     position: absolute;
     left:0px;
-    top:40%;
+    top:80px;
     right:0px;
     text-aligh: center;
 }
@@ -49,7 +49,7 @@
     blockground-color: #ffff00;
     position: absolute;
     left:0px;
-    top:70%;
+    top:120px;
     right:0px;
     text-aligh: center;
 }
