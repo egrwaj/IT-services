@@ -36,26 +36,23 @@ body{
     background-color: #ece89d;
     position: relative;
     left:0px;
-    top:20;
+    top:20px;
     right:0px;
-    bottom:20;
 }
 .block_2{
     background-color: #5e5373;
     color: #fff;
     position: relative;
     left:0px;
-    top:30;
+    top:50px;
     right:0px;
-    bottom:70;
 }
 .block_3{
     blockground: #18b5a4;
     position: relative;
     left:0px;
-    top:50;
+    top:80px;
     right:0px;
-    bottom:40;
 }
 </style>
 </html>
