@@ -30,7 +30,7 @@
     position: relative;
 }
 .cock{
-    background-color: #ece89d;
+    background-color: silver;
     position: absolute;
     left:0px;
     top:10%;
@@ -38,7 +38,7 @@
     text-aligh: center;
 }
 .ass{
-    background-color: #5e5373;
+    background-color: red;
     color: #fff;
     position: absolute;
     left:0px;
@@ -47,7 +47,7 @@
     text-aligh: center;
 }
 .deck{
-    blockground: #18b5a4;
+    blockground: aqua;
     position: absolute;
     left:0px;
     top:70%;
