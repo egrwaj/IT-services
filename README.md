@@ -27,10 +27,10 @@
     font-size: 18px;
     font-weight: 700;
     text-aligh: center;
+    position: relative;
 }
 .block_1{
     background-color: #ece89d;
-    position: relative;
     text-aligh: center;
     left:0px;
     top:40px;
@@ -39,7 +39,7 @@
 .block_2{
     background-color: #5e5373;
     color: #fff;
-    position: relative;
+    position: absolute;
     left:0px;
     top:70px;
     right:0px;
@@ -47,7 +47,6 @@
 }
 .block_3{
     blockground: #18b5a4;
-    position: relative;
     left:0px;
     top:100px;
     right:0px;
