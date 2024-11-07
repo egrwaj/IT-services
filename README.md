@@ -31,6 +31,7 @@
 .block_1{
     background-color: #ece89d;
     position: relative;
+    text-aligh: center;
     left:0px;
     top:20px;
     right:0px;
@@ -39,6 +40,7 @@
     background-color: #5e5373;
     color: #fff;
     position: relative;
+    text-aligh: center;
     left:0px;
     top:50px;
     right:0px;
@@ -49,6 +51,7 @@
     left:0px;
     top:80px;
     right:0px;
+    text-aligh: center;
 }
 </style>
 </html>
