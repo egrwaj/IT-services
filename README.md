@@ -34,18 +34,28 @@ body{
 }
 .block_1{
     background-color: #ece89d;
+    position: relative;
+    left:0px;
+    top:20;
+    right:0px;
+    bottom:20;
 }
 .block_2{
     background-color: #5e5373;
     color: #fff;
     position: relative;
-    left:10px;
-    top:20px;
-    right:10px;
-    bottom:20px;
+    left:0px;
+    top:30;
+    right:0px;
+    bottom:70;
 }
 .block_3{
     blockground: #18b5a4;
+    position: relative;
+    left:0px;
+    top:50;
+    right:0px;
+    bottom:40;
 }
 </style>
 </html>
