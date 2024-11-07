@@ -33,23 +33,23 @@
     position: relative;
     text-aligh: center;
     left:0px;
-    top:20px;
+    top:40px;
     right:0px;
 }
 .block_2{
     background-color: #5e5373;
     color: #fff;
     position: relative;
-    text-aligh: center;
     left:0px;
-    top:50px;
+    top:70px;
     right:0px;
+    text-aligh: center;
 }
 .block_3{
     blockground: #18b5a4;
     position: relative;
     left:0px;
-    top:80px;
+    top:100px;
     right:0px;
     text-aligh: center;
 }
