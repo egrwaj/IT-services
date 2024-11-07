@@ -33,7 +33,7 @@
     background-color: #ece89d;
     text-aligh: center;
     left:0px;
-    top:40px;
+    top:20;
     right:0px;
 }
 .block_2{
@@ -41,14 +41,14 @@
     color: #fff;
     position: absolute;
     left:0px;
-    top:70px;
+    top:40;
     right:0px;
     text-aligh: center;
 }
 .block_3{
     blockground: #18b5a4;
     left:0px;
-    top:100px;
+    top:60;
     right:0px;
     text-aligh: center;
 }
